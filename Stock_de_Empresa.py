@@ -11,7 +11,7 @@ while cargador == True:
 
     idProd = []
     print("hola"
-    print("la 2")
+    print("hola 2")
 
     if id not in idProd:
         idProd.append(id)
