@@ -10,7 +10,7 @@ while cargador == True:
     id = int(input("Ingrese el id de producto a incluir: "))
 
     idProd = []
-
+    print("hola")
     if id not in idProd:
         idProd.append(id)
         marcaProd = input("Ingrese marca del producto: ")
